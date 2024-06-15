@@ -1,11 +1,36 @@
 (welcome)=
-# Welcome
+# Fixes
 
-*Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
+It looks like the `>=` symbol is being interpreted incorrectly by your shell. Try enclosing the version specification in quotes. Here's how you can do it:
 
-_The Turing Way_ project is open source, open collaboration, and community-driven.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+```sh
+pip install "sphinx>=5.0"
+```
+
+We are caught in a dependency conflict due to the required versions of `sphinx` and other extensions. Let's take a different approach:
+
+1. Uninstall all currently installed versions.
+2. Install compatible versions of the packages together, ensuring there are no version conflicts.
+
+Let's uninstall the current packages again:
+
+```sh
+pip uninstall sphinx sphinx-panels jupyter-book sphinxcontrib-applehelp sphinxcontrib-devhelp sphinxcontrib-jsmath sphinxcontrib-htmlhelp sphinxcontrib-serializinghtml sphinxcontrib-qthelp sphinx-design sphinx-external-toc pydata-sphinx-theme sphinx-jupyterbook-latex sphinx-book-theme myst-nb myst-parser
+```
+
+Next, install the correct versions together:
+
+```sh
+pip install "sphinx>=5.0,<6.0" sphinxcontrib-applehelp sphinxcontrib-devhelp sphinxcontrib-jsmath sphinxcontrib-htmlhelp sphinxcontrib-serializinghtml sphinxcontrib-qthelp sphinx-design "sphinx-external-toc<2" "pydata-sphinx-theme>=0.15.2" "sphinx-jupyterbook-latex<2" "sphinx-book-theme>=1.1.0,<2" "myst-nb<3" "myst-parser<3" "jupyter-book>=0.12.0" "sphinx-thebe>=0.3,<1" sphinx-panels
+```
+
+This command should install compatible versions of the required packages. If there are any issues during installation, we will need to adjust the versions accordingly. Once installed, try building your Jupyter Book again:
+
+```sh
+jb build nia/book/website
+```
+
+If further adjustments are needed, please let me know.
 
 ```{admonition} Top Tip
 :class: tip
