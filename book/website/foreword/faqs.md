@@ -1,7 +1,7 @@
 (fw-faqs)=
 # Frequently Asked Questions
 
-*Meeting you where you are.* 
+*Meeting you where you are.*
 
 In this document, we provide an overview of resources and ways of working in the community.
 Although, most of these resources are described in different chapters, you can always return to this page to find quick access to useful pointers and links.
@@ -22,7 +22,7 @@ You can get started by exploring different opportunities [listed on our start pa
 | I don't feel like reading, can I watch short videos? | Here is a [YouTube playlist with short videos](https://www.youtube.com/playlist?list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe). |
 | Where can I learn about the next community event that I can join? | We share them regularly in our [monthly newsletters](https://buttondown.email/turingway/archive/). |
 
-## 2. Documentation and Participation Guidelines 
+## 2. Documentation and Participation Guidelines
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -62,7 +62,7 @@ You can get started by exploring different opportunities [listed on our start pa
 | You might be wondering this | You can learn about that here |
 |:----------------------- |:---------------------------------|
 | Can I see what people are discussing about without having to participate right now? | You are welcome to read comments on GitHub and visit Slack channels without joining the conversation. |
-| Oh! However I have some thoughts and feedback on an ongoing discussion. | Great! Why wait? Join the conversation. We would be delighted to welcome your thoughts. | 
+| Oh! However I have some thoughts and feedback on an ongoing discussion. | Great! Why wait? Join the conversation. We would be delighted to welcome your thoughts. |
 | I read a chapter and want to clarify a minor technical/conceptual thing. Can I simply ask it without opening an issue? | Yes. Please ask away on a suitable Slack channel. |
 | I saw a typo or factual error in a chapter, how can I fix it? | (i) You can raise the error by opening a GitHub issue. (ii) You can also directly fix the error by using the 'suggest edit' option on Netlify, which will help in opening a Pull Request. (iii) If you get stuck, ask for help in troubleshooting on Slack. |
 | I am not very comfortable with GitHub, I don't want to do something wrong on the repository. Help! | We can assure you that you will not 'break' the GitHub repository. Everything there is reversible, thanks to `git` version control system. We encourage you to try out GitHub by fixing some minor errors marked as [good first issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). |

@@ -1,5 +1,5 @@
 """
-Script to pull changed files in a Pull Request using a GET resquest to the
+Script to pull changed files in a Pull Request using a GET request to the
 GitHub API.
 """
 import requests
@@ -8,14 +8,16 @@ import argparse
 
 def parse_args():
     """Construct the command line interface for the script"""
-    DESCRIPTION = "Script to check for occurences of 'Lorem Ipsum' in Markdown files"
+    DESCRIPTION = "Script to check for occurrences of 'Lorem Ipsum' in Markdown files"
     parser = argparse.ArgumentParser(description=DESCRIPTION)
 
     parser.add_argument(
         "--pull-request",
         type=str,
         default=None,
-        help="If the script is be run on files changed by a pull request, parse the PR number",
+        help=(
+            "If the script is be run on files changed by a pull request, parse the PR number"
+        ),
     )
 
     return parser.parse_args()
@@ -54,7 +56,6 @@ def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
                               (default: {"book/website"})
 
         ignore_suffix {str} -- File suffix or tuple of suffixes to ignore.
-
 
     Returns:
         {list} -- List of filenames that begin with the desired start phrase

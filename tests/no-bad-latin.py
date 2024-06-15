@@ -25,7 +25,7 @@ def parse_args():
 
 def remove_comments(text_string):
     """
-    Function to omit  html comment identifiers in a text string using
+    Function to omit html comment identifiers in a text string using
     regular expression matches.
 
     Arguments:
@@ -63,7 +63,7 @@ def construct_error_message(files_dict):
                                    bad latin phrases and offending lines
 
     Returns:
-{string} -- The error message to be raised
+        {string} -- The error message to be raised
     """
     error_message = ["Bad latin found in the following files:\n"]
 
@@ -97,8 +97,10 @@ def read_and_check_files(files):
         else:
             try:
                 with open(
-                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8",
-                errors="ignore") as f:
+                    os.path.join(ABSOLUTE_HERE, filename),
+                    encoding="utf8",
+                    errors="ignore",
+                ) as f:
                     text = f.read()
                     text = remove_comments(text)
 
@@ -142,7 +144,7 @@ def main():
     args = parse_args()
 
     if args.pull_request is not None:
-        files = filter_files(args.pull_request, ignore_suffix=('.jpg', '.png'))
+        files = filter_files(args.pull_request, ignore_suffix=(".jpg", ".png"))
     else:
         files = get_all_files()
 

@@ -4,7 +4,7 @@
 _The Turing Way_ handbook is a collection of different guides on data science practices and additional sections to cover different aspects of the project and community approaches.
 Each section contains multiple chapters, and each chapters are divided into smaller, self-contained sub-chapters to allow you to navigate the book and its content easily at your own pace.
 
-## _The Turing Way_ Guides 
+## _The Turing Way_ Guides
 
 All community-developed resources on research and data science practices are organised into five guides.
 The book started with a guide on research reproducibility, that contains tools, methods and practices from computational aspects of data science.
@@ -39,7 +39,7 @@ All community processes are captured in {ref}`ch` to provide workflows, guidelin
 
 We have also developed {ref}`fw` and {ref}`aw` to share contexts, backgrounds and supplementary resources from and about _The Turing Way_.
 
-Chapters in the Community Handbook, Foreword and afterword are written by both the project delivery team and community members involved in the different leadership, maintenance or community support roles. 
+Chapters in the Community Handbook, Foreword and afterword are written by both the project delivery team and community members involved in the different leadership, maintenance or community support roles.
 
 *Browse the different guides and sections that make up the book, or use the search box to search for whatever you would like to learn about first.*
 
@@ -49,7 +49,7 @@ _The Turing Way_ is continually evolving to meet the needs and interests of the 
 
 1. Engage diverse stakeholders in _The Turing Way_ through open, inclusive and collaborative efforts, **fostering a community** that collectively shapes research and scientific discourse in data science and AI.
 2. Co-create, maintain, and sustain an open-source, **community-driven handbook** on data science, providing tools, practices and real-world examples of **open and reproducible research**.
-3. Advocate for **responsible and ethical practices**, promoting transparency, fostering accountability and embedding human rights principles throughout the lifecycle of research, data science and AI projects. 
+3. Advocate for **responsible and ethical practices**, promoting transparency, fostering accountability and embedding human rights principles throughout the lifecycle of research, data science and AI projects.
 4. Champion best practices in **communication, collaboration, and project design** as fundamental pillars for making data science and AI accessible, comprehensible, and beneficial for all stakeholders.
 
 ### Scope of _The Turing Way_
@@ -64,4 +64,3 @@ The scope of _The Turing Way_ can be broadly described across six categories, wi
 6. **Global Impact:** Extending the impact of _The Turing Way_ by conducting global outreach, engaging with different sectors, supporting the localisation of resources, advocating for policy changes and facilitating cross-community efforts
 
 **Get Involved:** If you have ideas and plans for _The Turing Way_, please reach out to _The Turing Way_ team via email at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). Your input is valuable to the ongoing development of the project.
-

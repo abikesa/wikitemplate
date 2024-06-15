@@ -12,7 +12,7 @@ Name + Pronouns + What is a bucket list trip you would like to take?  + an emoji
 * Ella + she/her + New Zealand \& Australia (all of it!)
 *  Batool + she/her +  hike the Hallasan mountain in Jeju Island
 * Jen + she/her + Tour du Mont Blanc
-* Aida + she/her + Australia for me :) never been, and it was supposed to 
+* Aida + she/her + Australia for me :) never been, and it was supposed to
 * Steph + she/her + island hopping around Greece for me!
 * Sophie + she/her + Japan has been on my list for a while (didn't know this was true for you too Kalle!)
 * Bastian + he/him + The Panamericana + 🪬
@@ -22,28 +22,28 @@ Name + Pronouns + What is a bucket list trip you would like to take?  + an emoji
 * Amefon + Korea!
 * Fran + he/him + Kayaking down the Yarlung Tsangpo river
 *  Sam + he/him + drive down one side of italy and up the other side
-*  Richard  Dushime + he/him 
-* Giulia + she/her + Korea 
+*  Richard  Dushime + he/him
+* Giulia + she/her + Korea
 * Pen + he/hey + visit islands like St Helena or Easter Island
-* Sophia + she/her + Dolomites. It's been on my list since forever. 
+* Sophia + she/her + Dolomites. It's been on my list since forever.
 * Esther + she/her + New Zealand
 
 ### Advertise and promote your event or anything exciting you're working on. ✨
 
 * Book Dash applications are open! Apply here: The Turing Way - Book Dash application (google.com)
     * Application materials: [https://forms.gle/Paung2WcZvbyMpss9](https://forms.gle/Paung2WcZvbyMpss9)
-    * Promotional material: 
+    * Promotional material:
         * [https://twitter.com/turingway/status/1768693962628325788](https://twitter.com/turingway/status/1768693962628325788)
         * [https://fosstodon.org/@turingway/112100941746791226](https://fosstodon.org/@turingway/112100941746791226)
         * [https://www.linkedin.com/feed/update/urn:li:activity:7178328856330711040](https://www.linkedin.com/feed/update/urn:li:activity:7178328856330711040)
 * Join the Community Forum on 23 April: [https://turing-uk.zoom.us/meeting/register/tJwpfuyrrD8pGtcpq7fikghlob3CACTnSQMm?utm\_source=turingway\&utm\_medium=email\&utm\_campaign=attend-our-community-forum-apply-to-join-the#/registration](https://turing-uk.zoom.us/meeting/register/tJwpfuyrrD8pGtcpq7fikghlob3CACTnSQMm?utm\_source=turingway\&utm\_medium=email\&utm\_campaign=attend-our-community-forum-apply-to-join-the#/registration)
 *  Climate Informatics 2024 (hybrid), hosted by the Alan Turing Institute, [https://www.turing.ac.uk/events/climate-informatics-2024](https://www.turing.ac.uk/events/climate-informatics-2024)
 * Add announcements for April 2024 newsletter: [https://github.com/the-turing-way/newsletter/issues/13](https://github.com/the-turing-way/newsletter/issues/13)
-* PPIE Events Chapter: [https://github.com/the-turing-way/the-turing-way/pull/3550](https://github.com/the-turing-way/the-turing-way/pull/3550) 
+* PPIE Events Chapter: [https://github.com/the-turing-way/the-turing-way/pull/3550](https://github.com/the-turing-way/the-turing-way/pull/3550)
 
-### Breakout rooms: Topic proposals and notes✨ 
+### Breakout rooms: Topic proposals and notes✨
 
-While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
+While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.
 
 If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)).
 
@@ -75,7 +75,7 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
         * Would be great to have you involved in these conversation:
             * Practitioners Hub Advisor: [https://www.turing.ac.uk/turing-way-practitioners-hub](https://www.turing.ac.uk/turing-way-practitioners-hub)
 * Community Survey Design
-* Health CRM updates 
+* Health CRM updates
 * User Experience Design
 * London Open Source Day
     * Jen and Ale chatted about a potential TTWPH event
@@ -93,10 +93,10 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
         * 4. Inclusive Events/Accessibility Chapter (bookdash?)
 
 
-##  Link list✨ 
+##  Link list✨
 
 * Jorge Ben Jor - forca bruta album: [https://www.youtube.com/watch?v=JIj58k0lib0](https://www.youtube.com/watch?v=JIj58k0lib0)
-* [https://www.mural.co/blog/boost-empathy-quickly-with-proto-personas](https://www.mural.co/blog/boost-empathy-quickly-with-proto-personas) 
+* [https://www.mural.co/blog/boost-empathy-quickly-with-proto-personas](https://www.mural.co/blog/boost-empathy-quickly-with-proto-personas)
 * [https://www.scitepress.org/PublishedPapers/2022/110332/110332.pdf](https://www.scitepress.org/PublishedPapers/2022/110332/110332.pdf)
 * [https://github.com/the-turing-way/the-turing-way/issues/3620](https://github.com/the-turing-way/the-turing-way/issues/3620)
 * [https://www.turing.ac.uk/turing-way-practitioners-hub](https://www.turing.ac.uk/turing-way-practitioners-hub)

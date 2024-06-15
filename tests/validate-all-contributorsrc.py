@@ -14,29 +14,29 @@ def get_schema() -> dict[Any, Any]:
 
     # Add _comment item to the schema, as we have added a comment explaining the file
     schema["properties"]["_comment"] = {
-        'title': "Comment",
-        'type': "string",
+        "title": "Comment",
+        "type": "string",
     }
     # Undocumented field added by the bot
     schema["properties"]["commitType"] = {
-        'title': "Commit type (undocumented)",
-        'type': "string",
+        "title": "Commit type (undocumented)",
+        "type": "string",
     }
 
     return schema
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Validate all-contributorsrc file."
-    )
+    parser = argparse.ArgumentParser(description="Validate all-contributorsrc file.")
 
     # Optionally allow the path to the all-contributors file to be specified upon execution
     parser.add_argument(
         "file",
         type=Path,
         nargs="?",
-        default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc").resolve(),
+        default=Path(
+            Path(__file__).parent.absolute() / "../.all-contributorsrc"
+        ).resolve(),
         help="Path of the JSON file containing the contributor metadata.",
     )
 

@@ -1,5 +1,5 @@
 (fw-governance)=
-# Governance in _The Turing Way_ 
+# Governance in _The Turing Way_
 
 ```{warning}
 This chapter is under review.
@@ -18,7 +18,7 @@ In 2023-2024, _The Turing Way_ adopted three institutional "levels".
 Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
 
 1. The “Community level" ("Operational level”) norms that influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
-2. The "Maintenance level" (“Collective choice") norms allow different groups of people to come together to work on and promote specific areas/initiatives in the project as well as define/change processes to make community level participation easier. 
+2. The "Maintenance level" (“Collective choice") norms allow different groups of people to come together to work on and promote specific areas/initiatives in the project as well as define/change processes to make community level participation easier.
 3. The "Constitutional level" norms are followed by project leaders who are allowed to change/approve maintenance level norms and establish procedures for those decisions. They also are responsible for the project-related responsibilities that affect the whole of the project, the community and sustainability.
 
 Each level of decision-making should inform and influence each other, both applying and evolving governance processes in order to build transparent and accountable governance of _The Turing Way_.
@@ -46,7 +46,7 @@ Members may have made contributions to the book, participated in an event or sim
 Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
 ```
 
-Decisions and activities undertaken by community level members may include the following: 
+Decisions and activities undertaken by community level members may include the following:
 * Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
 * Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
 * Presenting about *The Turing Way* at an event.
@@ -77,7 +77,7 @@ You can find details about these members in our [ways of working document](https
 
 _The Turing Way_ {ref}`Project Delivery Team Members<fw-community-delivery-team>` are staff members hired to take on responsibilities for delivering and maintaining work, for example, Research Community Manager and Research Project Manager.
 Project leads may offer support at the maintenance level, but decision-making at this level must stay with the community and stewards of the community, supported by the Research Community Manager.
-    
+
 ### _The Turing Way_ Working Groups
 
 Within *The Turing Way*, {ref}`Working Groups (or WGs)<subprojects>` are formed by small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest.
@@ -94,7 +94,7 @@ For example, since 2020, localisation and translation work has been carried out 
 Similarly, in 2021, after moving Book Dash as an online event, a 'Book Dash Planning Committee' was convened yearly joined by a few previous attendees of Book Dashes who supported the planning and delivery of the event.
 Nonetheless, the formation of WGs had largely remained informal: after existing streams of work had been identified, community members engaged with the work were formally recognised and encouraged to develop ways of working that aligned with their needs.
 
-However, as the community has grown, WGs have been more formally established and explicit pathways are being created to formalise WGs. 
+However, as the community has grown, WGs have been more formally established and explicit pathways are being created to formalise WGs.
 
 **Guidelines and resources for  WGs are shared in the Community Handbook.** <-- At the time of writing, this chapter is under review ([see preview](https://deploy-preview-3499--the-turing-way.netlify.app/community-handbook/working-groups)).
 ```
@@ -103,7 +103,7 @@ However, as the community has grown, WGs have been more formally established and
 
 Decisions at the maintainer level may include the following:
 
-* Setting up, leading or representing a  WG in different types of roles as leads, co-leads, secretaries and contributing members. 
+* Setting up, leading or representing a  WG in different types of roles as leads, co-leads, secretaries and contributing members.
 * Facilitating the creation of a new  WG
 * Decisions for planning and hosting the WG meetings and recurrence of the meetings.
 * Organising and distributing the responsibilities within each  WG.
@@ -133,7 +133,7 @@ Decisions at constitutional level may include the following:
 - Support each  WG in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
 - Meeting other institutional obligations and communicating them transparently to the community.
 
-This document is in its early stages and will evolve in conversation with the community. 
+This document is in its early stages and will evolve in conversation with the community.
 
 ```{note}
 Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).

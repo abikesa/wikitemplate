@@ -5,7 +5,7 @@ RichardJActon
 Sara
 nora
 Denise
-Renee (Hui Xin) Ng / London/UCL /@nghuixin 
+Renee (Hui Xin) Ng / London/UCL /@nghuixin
 Ceci
 Zeena Shawa
 Nicolas

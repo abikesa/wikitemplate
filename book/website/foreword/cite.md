@@ -7,7 +7,7 @@ You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [1
 
 The citation will look something like:
 
->  The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI [10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853). 
+>  The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI [10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853).
 
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
@@ -25,8 +25,8 @@ alt: This image shows the evolving interest of a new researcher in sharing their
 This is an example of one of _The Turing Way_ project illustrations by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-_The Turing Way_ illustrations have been created by artists from Scriberia as part of _The Turing Way_ book dashes since 2019.    
-They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general. 
+_The Turing Way_ illustrations have been created by artists from Scriberia as part of _The Turing Way_ book dashes since 2019.
+They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
 These illustrations are available on Zenodo [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807) under a CC-BY license.
 
 When using any of the images, please include the following attribution:

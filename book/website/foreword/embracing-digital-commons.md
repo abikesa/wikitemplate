@@ -9,9 +9,9 @@ As a community-developed project, _The Turing Way_ belongs to the community, and
 The intricacies and beauty of this collaboration are evident in the continuous growth, diversity and acknowledgement that _The Turing Way_ has garnered over the years.
 
 I believe open science and community building are at the core of my personal and professional goals.
-To me, open science is a commitment to achieving knowledge equity. 
+To me, open science is a commitment to achieving knowledge equity.
 
-This means facilitating access for individuals from diverse backgrounds, fostering their active contribution, and evolving the landscape of knowledge itself. 
+This means facilitating access for individuals from diverse backgrounds, fostering their active contribution, and evolving the landscape of knowledge itself.
 
 I actively champion open science and community building in _The Turing Way_.
 My commitment to open knowledge and collaboration is deeply rooted in my appreciation for Ostrom's Governing the Commons {cite}`Ostrom1990commons` and understanding of the theory and practices of “knowledge commons” as applied to digital commons {cite}`Ostrom2006commons`.
@@ -25,7 +25,7 @@ Unlike physical resources, this knowledge, once shared, can be used by countless
 Open-source projects like Linux and collaborative platforms like Wikipedia exemplify this power of unrestricted sharing for research, education, and innovation.
 
 **Digital Commons:** Digital Commons encompasses global resources created and maintained digitally through collective efforts {cite}`deRosnay2020commons`.
-This emphasis on collaboration extends to licensing, authorship, production, governance, and participation, actively ensuring equitable access to digital resources for all {cite}`Frion2024commons`. 
+This emphasis on collaboration extends to licensing, authorship, production, governance, and participation, actively ensuring equitable access to digital resources for all {cite}`Frion2024commons`.
 ```
 
 Examples of digital commons include licensing infrastructure like [Creative Commons](https://creativecommons.org/) for sharing resources with clear conditions and digital platforms like [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Welcome) and [Zenodo](https://zenodo.org/) for sharing and accessing media files and research components (each with appropriate license) respectively.
@@ -33,15 +33,15 @@ These initiatives exemplify the power of digital commons in democratising access
 
 ### Commoning in _The Turing Way_
 
-Participatory processes for managing the Commons for the shared benefit are called commoning ([Eight Points of Reference for Commoning](https://www.bollier.org/blog/eight-points-reference-commoning)). 
+Participatory processes for managing the Commons for the shared benefit are called commoning ([Eight Points of Reference for Commoning](https://www.bollier.org/blog/eight-points-reference-commoning)).
 
-A (digital) common always requires a (i) community – people who can or want to access (ii) a common -- physical or digital resources, and apply (iii) governance – a set of rules or structured interventions that involve the community in caring for both the resources and other members of the community. 
+A (digital) common always requires a (i) community – people who can or want to access (ii) a common -- physical or digital resources, and apply (iii) governance – a set of rules or structured interventions that involve the community in caring for both the resources and other members of the community.
 
 _The Turing Way_ is a (i) **community** — our readers, users, developers, and collaborators who have access to (ii) **_The Turing Way_ book** — a digital common shared under a permissive license for reuse, and (iii) **governance** — our community norms, practices, and processes through which the project is built, maintained, governed, and sustained with the involvement of community members.
 
 ## _The Turing Way_ - A Digital Public Good
 
-_The Turing Way_ is also aligned with the principles of [Digital Public Goods](https://www.un.org/techenvoy/content/digital-public-goods) (DPG) -- digital assets that provide value to society and contribute to the public good. 
+_The Turing Way_ is also aligned with the principles of [Digital Public Goods](https://www.un.org/techenvoy/content/digital-public-goods) (DPG) -- digital assets that provide value to society and contribute to the public good.
 
 _The Turing Way_ book serves as a DPG. In 2024, the project was listed in the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) Registry for its alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
 In this context, _The Turing Way_ acts as a high-quality reference and educational material for people at different stages of their learning in data science.
@@ -52,7 +52,7 @@ Co-developed with a diverse community, _The Turing Way_ addresses the need for c
 
 Both Digital Commons and Digital Public Goods are integral to the Open Science movement {cite}`WEF2022commons`.
 
-Not all digital public goods are digital commons or openly accessible for everyone, as they can be centrally managed for public benefit without necessarily involving a community in their maintenance. 
+Not all digital public goods are digital commons or openly accessible for everyone, as they can be centrally managed for public benefit without necessarily involving a community in their maintenance.
 However, they share some traits with the public good.
 
 Examples of Digital Public Goods include [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) shared freely for modification and redistribution (not all FOSS are community-developed).

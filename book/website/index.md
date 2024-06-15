@@ -62,7 +62,7 @@ Call for translators! We’re looking for contributors to help translate this sp
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
 
-Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
+Learn more about our community members and community-level approaches in the {ref}`aw` of this book.
 
 <video controls loop autoplay muted>
   <source src="_static/videos/contributors.mp4" type="video/mp4">
@@ -76,4 +76,3 @@ All contributions must abide by our [code of conduct](https://github.com/the-tur
 More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
-

@@ -4,7 +4,7 @@
 
 * Susana (she/her) + I will be CHILLING HARD, no activities planned and just enjoying some rest
 * Anne (she/her) + Hopefully outside, maybe on a long walk & camp?  + knowing every language in the world?!
-* Ceilidh (she/her) + spending a bit of time with family! 
+* Ceilidh (she/her) + spending a bit of time with family!
 * Max (he/his), outside as well if the weather allows it
 * Roza (she/her) + is there a long holiday coming up??? (in the UK its easter i think? susana) + 🐳
 
@@ -18,8 +18,8 @@ Registrations: 8
 2) Slides (15min) - Ceilidh \& Susana
 
    * - on how TTW works, glance at github contributions, guide to more collab cafes, who to talk to
-   * - Slides of community members, contributor 
-3) Do you have any ideas on what you'd like to do/contribute with TTW? (15-20min) 
+   * - Slides of community members, contributor
+3) Do you have any ideas on what you'd like to do/contribute with TTW? (15-20min)
 
    * - Asking  “what would you like to do”, “who would you like to meet”, “is there something you are working on that you wished other knew”
 4) Any questions on slides, or anything else? (10min) --> opportunity to go into breakout rooms?
@@ -33,16 +33,16 @@ Registrations: 8
  ## Notes
 
 * What are people interested in learning more about? (Taken from Zoom)
-    * Future events and collaborations 
+    * Future events and collaborations
     * Learn more about The Turing Way project!
     * How to create a new chapter
     * More about the Turing Way
     * How to get involved
     * Making contributions to the TTW community  work
-    * Contributing or linking resources from other Turing projects and working with TW on co-creation of new resources        
-    * The Turing Way structure and how to get more actively involved  
+    * Contributing or linking resources from other Turing projects and working with TW on co-creation of new resources
+    * The Turing Way structure and how to get more actively involved
 *  Backgrounds: library science, bioinformatics, ai/ml, medical data
-* interests: how to contribute, how to learn more 
+* interests: how to contribute, how to learn more
 * all call links: [https://ttw-book-dash.start.page/](https://ttw-book-dash.start.page/) 🙂
     * collaboration cafe - 7 february, 15-17 london time
 
@@ -58,7 +58,7 @@ Registrations: 8
 * introduction should be interactive at the beginning, allow for around 15 to 20min ay yhe beginning
     * asking people 'what would a successful call look like for you'? or 'why are you joining' or 'what do you want to get out of this'
     * people might not know what they what , so its okay to have leeway for the unknown in the call
-* music - at the beginning & end of the call is okay! 
+* music - at the beginning & end of the call is okay!
 * Should these calls be recorded? No - not for now
 * Reminder email warked before the call
 * follow up email would be good - to participants who signed up

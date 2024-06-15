@@ -4,7 +4,7 @@
 
 Drop-in sessions are an informal collaboration format where a team or group of people host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
-These sessions generally include an online component, typically using [Zoom](https://www.zoom.us/). 
+These sessions generally include an online component, typically using [Zoom](https://www.zoom.us/).
 The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
 
 The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
@@ -28,7 +28,7 @@ Sign ups are a way to set up the schedule based on the requirements of attendees
 Here we share a few approaches, ranging from low touch to high touch:
 - Attendees drop in at any point during a session. This provides them flexibility and removes the need for prior scheduling, but may require them to sit in on other conversations and wait to have their question answered.
 - Allow attendees to sign up directly to fill open slots.
-- Attendees directly message hosts who schedule them into open slots. 
+- Attendees directly message hosts who schedule them into open slots.
 
 When there are more requests than available slots, any additional requests can be accommdated through multiple breakout rooms (if there are more hosts available) or scheduled for a future meeting.
 
@@ -76,7 +76,7 @@ Each slot may run longer or shorter than 30 minutes, and multiple slots may run 
 ### During the Session
 
 - Make sure there is someone monitoring the main Zoom room and physical space to welcome new attendees
-- It is especially important that someone is available before each slot to guide attendees to a breakout room, if those are being used 
+- It is especially important that someone is available before each slot to guide attendees to a breakout room, if those are being used
 
 ### After the Session
 

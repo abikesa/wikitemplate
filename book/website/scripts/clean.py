@@ -4,10 +4,9 @@ from pathlib import Path
 
 path_root = Path(__file__).parent.parent
 
-paths = [path_root.joinpath('_site'),
-         path_root.joinpath('_build')]
+paths = [path_root.joinpath("_site"), path_root.joinpath("_build")]
 for path in paths:
-    print(f'Removing {path}...')
+    print(f"Removing {path}...")
     sh.rmtree(path, ignore_errors=True)
 
-print('Done!')
+print("Done!")

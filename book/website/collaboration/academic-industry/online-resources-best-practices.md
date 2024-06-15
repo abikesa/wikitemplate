@@ -1,9 +1,9 @@
 (cl-academic-industry-online-resources)=
 # Online Resources
-This document provides valuable resources for you to implement in successful academia-industry collaborations. It offers practical guidance through a curated list of "Turing Way Resources" and explores relevant academic publications. Additionally, the document includes resources for writing case studies of such collaborations.  
+This document provides valuable resources for you to implement in successful academia-industry collaborations. It offers practical guidance through a curated list of "Turing Way Resources" and explores relevant academic publications. Additionally, the document includes resources for writing case studies of such collaborations.
 
 ## Academic Resources
-The continual tension of rigour vs. relevance remains both the opportunity for new knowledge while also serving as one of the many reasons collaborations sometimes struggle to provide meaningful value. The following is a list of academic publication exploring the benefits and challenges of academic-industry collaborations. 
+The continual tension of rigour vs. relevance remains both the opportunity for new knowledge while also serving as one of the many reasons collaborations sometimes struggle to provide meaningful value. The following is a list of academic publication exploring the benefits and challenges of academic-industry collaborations.
 |Title and link| Journal/Parent Resource|Year|
 |--------------|--------|----|
 |[Academic–industry collaborations and knowledge co-production in the social sciences](https://journals.sagepub.com/doi/abs/10.1177/1440783313492237)|Journal of Sociology|2013|<!--- -->

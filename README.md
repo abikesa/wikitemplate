@@ -1,3 +1,108 @@
+
+The `.pre-commit-config.yaml` file you've provided is part of a pre-commit framework, which is used to run checks on your code before it gets committed. This helps in maintaining code quality by ensuring that all the necessary checks (like linting, formatting, etc.) are done automatically.
+
+### Understanding the Configuration
+
+Your current `.pre-commit-config.yaml` looks like this:
+
+```yaml
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks: []
+```
+
+- **`repo`**: Specifies the repository containing the pre-commit hooks. In this case, it's the official `pre-commit-hooks` repository.
+- **`rev`**: The revision of the repository to use. `v4.6.0` is a specific version tag.
+- **`hooks`**: This is an empty list, meaning no specific hooks are currently configured.
+
+### Adding Hooks
+
+To make use of pre-commit hooks, you need to add specific hooks to the `hooks` list. Here are some commonly used hooks you might consider:
+
+- **`trailing-whitespace`**: Removes trailing whitespace.
+- **`end-of-file-fixer`**: Ensures files end with a newline.
+- **`check-yaml`**: Checks YAML files for syntax errors.
+- **`check-json`**: Checks JSON files for syntax errors.
+- **`black`**: Runs Black to format Python code.
+- **`flake8`**: Runs Flake8 for linting Python code.
+
+Here is an example configuration with a few hooks added:
+
+```yaml
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+  - repo: https://github.com/psf/black
+    rev: 22.3.0
+    hooks:
+      - id: black
+  - repo: https://github.com/pycqa/flake8
+    rev: v3.9.2
+    hooks:
+      - id: flake8
+```
+
+### Setting Up Pre-commit
+
+1. **Install pre-commit**: If you haven’t installed pre-commit yet, you can do so using pip:
+   ```sh
+   pip install pre-commit
+   ```
+
+2. **Install the hooks**: Run the following command to install the hooks defined in your `.pre-commit-config.yaml`:
+   ```sh
+   cd my
+   pre-commit install
+   ```
+
+3. **Run pre-commit manually** (optional): You can manually run pre-commit on all files to check them:
+   ```sh
+   pre-commit run --all-files
+   ```
+
+### Example Workflow
+
+Here’s an example of how your workflow might look once you have pre-commit set up:
+
+1. **Editing files**: You make changes to your codebase.
+2. **Staging changes**: You add files to the staging area using `git add`.
+3. **Committing changes**: When you run `git commit`, pre-commit hooks will automatically run. If any hook fails, the commit will be aborted, and you will need to fix the issues before committing again.
+
+### Full Example of .pre-commit-config.yaml
+
+Here is the complete example configuration:
+
+```yaml
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+  - repo: https://github.com/psf/black
+    rev: 22.3.0
+    hooks:
+      - id: black
+  - repo: https://github.com/pycqa/flake8
+    rev: v3.9.2
+    hooks:
+      - id: flake8
+```
+
+By configuring and using pre-commit hooks, you ensure that your code adheres to certain standards and is checked for common issues before being committed, thus maintaining code quality and consistency in your project.
+
+
+# Crazy README.md
+
+
 <a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
@@ -30,8 +135,8 @@ Our goal is to provide all the information that researchers and data scientists 
 *The Turing Way is a book, a community and a global collaboration.*
 
 All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://book.the-turing-way.org), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
-**We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
+You can read the book [online](https://book.the-turing-way.org), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
+**We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**.
 If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://book.the-turing-way.org/community-handbook/translation.html) and join our collaborative efforts.
 
 [![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
@@ -68,7 +173,7 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
@@ -77,7 +182,7 @@ This project is openly developed and any and all questions, comments and recomme
 ### The Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
+Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -107,7 +212,7 @@ We have created a [promotion pack](https://github.com/the-turing-way/the-turing-
 
 We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
-If you need to cite a specific version you can find those DOIs at the zenodo page above. 
+If you need to cite a specific version you can find those DOIs at the zenodo page above.
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:

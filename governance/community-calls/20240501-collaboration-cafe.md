@@ -12,20 +12,20 @@ Name + Pronouns + How do you usually like to celebrate your birthday?  + an emoj
 * Pen-Yuan Hsing ("Pen") + he/they + sleep + 😑
 * Fran Gomez + he/him + with a nice, big, sponge and chocolate cake
 * Jen + she/her + trying to see as many friends as possible!
-* Batool 
+* Batool
 * Shern  + he/him + I wanna catch up on this podcast episode before answering: [https://www.npr.org/2024/04/23/1196979098/how-to-have-a-happy-birthday](https://www.npr.org/2024/04/23/1196979098/how-to-have-a-happy-birthday)
 * Nicolas
 * Marilou
 
 ### Advertise and promote your event or anything exciting you're working on. ✨
 
-* 
-* 
-* 
+*
+*
+*
 
-### Breakout rooms: Topic proposals and notes✨ 
+### Breakout rooms: Topic proposals and notes✨
 
-While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
+While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.
 
 If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)).
 
@@ -55,7 +55,7 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
 * Room 5
 
 
-##  Link list✨ 
+##  Link list✨
 
 * [https://github.com/the-turing-way/the-turing-way/issues/3598](https://github.com/the-turing-way/the-turing-way/issues/3598)
 * [https://the-turing-way.netlify.app/ethical-research/ethical-research](https://the-turing-way.netlify.app/ethical-research/ethical-research)

@@ -10,29 +10,31 @@ BAD_PHRASE = "lorem ipsum"
 
 def parse_args():
     """Construct the command line interface for the script"""
-    DESCRIPTION = "Script to check for occurences of 'Lorem Ipsum' in Markdown files"
+    DESCRIPTION = "Script to check for occurrences of 'Lorem Ipsum' in Markdown files"
     parser = argparse.ArgumentParser(description=DESCRIPTION)
 
     parser.add_argument(
         "--pull-request",
         type=str,
         default=None,
-        help="If the script is be run on files changed by a pull request, parse the PR number",
+        help=(
+            "If the script is be run on files changed by a pull request, parse the PR number"
+        ),
     )
 
     return parser.parse_args()
 
 
 def remove_comments(text_string):
-    """Function to omit  html comment identifiers in a text string using
-	regular expression matches
+    """Function to omit html comment identifiers in a text string using
+    regular expression matches
 
-	Arguments:
-		text_string {string} -- The text to be matched
+    Arguments:
+        text_string {string} -- The text to be matched
 
-	Returns:
-		{string} -- The input text string with html comments removed
-	"""
+    Returns:
+        {string} -- The input text string with html comments removed
+    """
     p = re.sub("(?s)<!--(.*?)-->", "", text_string)
     return p
 
@@ -55,7 +57,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
     for filename in filenames:
         try:
             with open(
-            os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
+                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
             ) as f:
                 text = f.read()
                 text = remove_comments(text)
@@ -75,7 +77,8 @@ def check_all_files(
 
     Keyword Arguments:
         bad_phrase {str} -- Phrase to check and warn for (default: {"lorem ipsum"})
-        directory_to_check {str} -- Parent directory of files to be checked (default: {os.path.join(ABSOLUTE_HERE, "book", "website")})
+        directory_to_check {str} -- Parent directory of files to be checked
+        (default: {os.path.join(ABSOLUTE_HERE, "book", "website")})
 
     Returns:
         {list} -- List of filenames that contain the undesirable phrase
@@ -88,7 +91,7 @@ def check_all_files(
             text = f.read()
             text = remove_comments(text)
             if bad_phrase in text.lower():
-                failed.append(filename.name)
+                failed.append(filename)
 
     return failed
 

@@ -2,7 +2,7 @@
 
 # Chapter 1: Examining Power
 
-Here are some main ideas from this chapter on examining power. 
+Here are some main ideas from this chapter on examining power.
 
 (er-data-feminism-c1-keypoints)=
 ## Key Points

@@ -10,7 +10,7 @@ Our community members and general audience includes, but are not limited to, res
 As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
 The book itself has 6000+ monthly users worldwide.
 
-All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
+All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)).
 Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
 (fw-community-delivery-team)=
@@ -36,7 +36,7 @@ Often, reviewers are also invited from beyond the community to ensure new member
 
 ### Mentored-Contributions
 
-Existing members of the community are connected with new contributors for support and mentoring, such as helping navigate _The Turing Way_ repository, workflow, writing process or even reviewing. 
+Existing members of the community are connected with new contributors for support and mentoring, such as helping navigate _The Turing Way_ repository, workflow, writing process or even reviewing.
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
 
 By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
@@ -77,8 +77,8 @@ _To explore different pathways for community members to get involved, please vis
 
 ### Learn and Share Skills
 
-Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others. 
-They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project. 
+Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others.
+They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project.
 
 Community members have been taking roles like trainers, workshop leads, translators, infrastructure maintenance, accessibility experts, representatives of different projects in _The Turing Way_ and advocates of different topics of _The Turing Way_'s interest in external projects.
 Some of these areas of work have recently been formalised and are also being led by volunteer members (see Governance Roles).
@@ -88,7 +88,7 @@ Some of these workshops have become part of regular events and conferences to in
 Delivery of these workshops includes the following roles:
 
 * **Expert facilitators and trainers** of Open Science, Reproducibility and ethics-related workshops, both organised by _The Turing Way_ and delivered at external events
-* **Technical trainer** for novice learners on tools like GitHub, Binder, Jupyter and Literate Programming 
+* **Technical trainer** for novice learners on tools like GitHub, Binder, Jupyter and Literate Programming
 * **Presenters and speakers** for international events/conferences who represent _The Turing Way_ on external platforms
 
 All members are supported to structure their work in _The Turing Way_ to make them findable and onboard new members to provide continuity of their work.
