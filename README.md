@@ -1,4 +1,8 @@
 
+Simple
+
+# Crazy README.md
+
 The `.pre-commit-config.yaml` file you've provided is part of a pre-commit framework, which is used to run checks on your code before it gets committed. This helps in maintaining code quality by ensuring that all the necessary checks (like linting, formatting, etc.) are done automatically.
 
 ### Understanding the Configuration
